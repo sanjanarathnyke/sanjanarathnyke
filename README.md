@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjana <img height="40" src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png"></h1>
 <h3 align="center">Software Engineering Undergraduate Student</h3>
 
-- 🌱 I’m currently learning **Laravel | SoloLearn**
+- 🌱 I’m currently learning **Laravel | SoloLearn | Hackerrank**
 
 - 👯 I’m looking to collaborate on ***projects***
 
