@@ -1,25 +1,26 @@
+Here is an enhanced version of the provided text:
+
 <h1 align="center">Hi 👋, I'm Sanjana <img height="40" src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png"></h1>
 <h3 align="center">Software Engineering Undergraduate Student</h3>
 
-- 🌱 I’m currently learning **Laravel | SoloLearn | Hackerrank**
-
-- 👯 I’m looking to collaborate on ***projects***
-
-- 📫 How to reach me **sanjanarathnayake692@gmail.com**
-
-- ⚡ What I like to do: **I like to refer new technologies and find new paths to do more activities.**
+<p align="center">
+  I am a passionate and driven software engineering student, constantly exploring new technologies and seeking opportunities to collaborate on exciting projects. My current focus is on expanding my skills in Laravel, SoloLearn, and Hackerrank, as I strive to become a well-rounded software developer.
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-rathnayake-a72238234/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BuMJ6uxNOTvKn%2F3S1vIgabQ%3D%3D)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sanja_narathnayake/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjanarathnayake692@gmail.com)
-  
+  <a href="https://www.linkedin.com/in/sanjana-rathnayake-a72238234/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BuMJ6uxNOTvKn%2F3S1vIgabQ%3D%3D" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/sanja_narathnayake/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:sanjanarathnayake692@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
-
 <div align="center">
   <table>
     <tr>
@@ -108,4 +109,10 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanarathnyke&theme=react&layout=compact" />
 </p>
 
-------
+<p align="center">
+  I'm continuously striving to expand my knowledge and skills, with a particular focus on web development technologies like Laravel, as well as coding platforms like SoloLearn and Hackerrank. I'm eager to collaborate on exciting projects and contribute to the software engineering community.
+</p>
+
+<p align="center">
+  Feel free to connect with me on LinkedIn, Instagram, or email to discuss potential opportunities or just to chat about technology and programming. I'm always happy to share my passion and learn from others.
+</p>
