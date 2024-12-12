@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjana </h1>
-<h3 align="center">Software Engineering Undergraduate Student</h3>
+<h3 align="center">Software Engineering Undergraduate Student | Web Developer</h3>
 
 - 🌱 I’m currently learning **Laravel | SoloLearn | Hackerrank**
 
