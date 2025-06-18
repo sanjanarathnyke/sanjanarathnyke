@@ -4,7 +4,7 @@
 ---
 
 🌱 **Currently Learning:** Laravel, SoloLearn, HackerRank  
-🤝 **Looking to Collaborate On:** Open-source or freelance web projects  
+🤝 **Looking to Collaborate On:** freelance web projects  
 📫 **Reach Me:** sanjanarathnayake692@gmail.com  
 💡 **Fun Fact:** I'm always exploring new technologies and love solving real-world problems with code.
 
