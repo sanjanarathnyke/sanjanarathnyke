@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sanjana</h1>
-<h3 align="center"> 💻 passionate-dev-lk </h3>
+<h3 align="center">💻 passionate-dev-lk</h3>
 
 ---
 
 🌱 **Currently Learning:** Laravel, SoloLearn, HackerRank  
-🤝 **Looking to Collaborate On:** freelance web projects  
+🤝 **Looking to Collaborate On:** Freelance web projects  
 📫 **Reach Me:** sanjanarathnayake692@gmail.com  
 💡 **Fun Fact:** I'm always exploring new technologies and love solving real-world problems with code.
 
@@ -37,13 +37,13 @@
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="30" />
 </p>
 
@@ -60,3 +60,11 @@
 ---
 
 > 💬 *Feel free to connect or collaborate — I'm open to new ideas and projects!*
+
+---
+
+### 🌀 Dev Vibes in Motion
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
