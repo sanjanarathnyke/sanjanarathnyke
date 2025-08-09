@@ -3,7 +3,7 @@
 
 ---
 
-🌱 **Currently Learning:** Laravel, Python, SoloLearn, HackerRank  
+🌱 **Currently Learning:** Laravel, SoloLearn, HackerRank  
 🤝 **Looking to Collaborate On:** Freelance web projects  
 📫 **Reach Me:** sanjanarathnayake692@gmail.com  
 💡 **Fun Fact:** I'm always exploring new technologies and love solving real-world problems with code.
