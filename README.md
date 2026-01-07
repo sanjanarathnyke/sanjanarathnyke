@@ -2,7 +2,7 @@
 <h3 align="center">💻 Passionate Developer from Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Developer;Turning+Ideas+Into+Reality;Building+Digital+Solutions;Open+to+Freelance+Projects" alt="Typing SVG" />
+  Open to freelance projects | Full Stack Software Developer
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 **Languages:** HTML, CSS, JavaScript, PHP, Python, Java, C  
 **Frameworks & Libraries:** Laravel, Bootstrap, Spring  
-**Databases:** MySQL, SQLite, PostgreSQL, MongoDB
+**Databases:** MySQL, SQLite, PostgreSQL, MongoDB  
 **Tools & Platforms:** Arduino, Linux  
 
 ---
@@ -76,5 +76,3 @@
 <p align="center">
   💬 <i>Feel free to connect or collaborate — I'm open to new ideas and projects!</i>
 </p>
-
----
