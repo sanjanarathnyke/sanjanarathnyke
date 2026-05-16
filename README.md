@@ -29,7 +29,7 @@ Strong focus on clean architecture, performance optimization, and writing effici
 ---
 
 <div align="center">
-⭐ <em>Open to professional collaborations and long-term development opportunities.</em>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sanjanarathnyke&color=blue&style=flat)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sanjanarathnyke&theme=tokyonight&no-frame=true&row=1)
+
 </div>
