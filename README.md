@@ -27,9 +27,3 @@ Strong focus on clean architecture, performance optimization, and writing effici
 <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,ts,react,nextjs,laravel,python,cpp,bash,mysql,postgres,mongodb,sqlite,linux,tensorflow,opencv,vercel,githubactions,nginx" />
 
 ---
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=sanjanarathnyke&theme=tokyonight&no-frame=true&row=1)
-
-</div>
